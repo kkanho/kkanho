@@ -7,7 +7,7 @@ I've been learning to code for more than 5 years. I am passionate about frontend
 * 🖥️  See my portfolio at [MyWebsite](http://github.com/kkanho/)
 * ✉️  You can contact me at [kanho3058@gmail.com](mailto:kanho3058@gmail.com)
 * 🚀  I'm currently working on [E-shop](http://github.com/kkanho/shop)
-* 🧠  I'm learning Nextjs13, TypeScript, Firebase
+* 🧠  I'm learning Nextjs, TypeScript, Firebase
 * 🤝  I'm open to collaborating on other cool projects!
 * ⚡  你好！≽^•⩊•^≼
 
