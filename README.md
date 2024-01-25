@@ -4,7 +4,7 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 I've been learning to code for more than 5 years. I am passionate about frontend web development! And I love code!!!😂😂😂
 
 * 🌍  I'm based in Hong Kong
-* 🖥️  See my portfolio at [MyWebsite](http://github.com/kkanho/)
+* 🖥️  See my portfolio at [MyWebsite](https://kkanho.github.io/)
 * ✉️  You can contact me at [kanho3058@gmail.com](mailto:kanho3058@gmail.com)
 * 🚀  I'm currently working on [E-shop](http://github.com/kkanho/shop)
 * 🧠  I'm learning Nextjs, TypeScript, Firebase
