@@ -6,7 +6,6 @@ I've been learning to code for more than 5 years. I am passionate about web deve
 * 🌍  I'm based in Hong Kong
 * 🖥️  See my portfolio at [MyWebsite](https://kkanho.github.io/)
 * ✉️  You can contact me at [kanho.devtech@gmail.com](mailto:kanho.devtech@gmail.com)
-* 🧠  I'm learning Nextjs, TypeScript, Firebase
 * 🤝  I'm open to collaborating on other cool projects!
 * ⚡  ≽^•⩊•^≼
 
