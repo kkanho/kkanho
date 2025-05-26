@@ -1,8 +1,7 @@
 Welcome to my profile!!! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==============================================================================================================================
 
-😂😂😂
-I've been learning to code for more than 5 years. I am passionate about web development! And I love code!!!
+I am passionate about web development!
 
 * 🌍  I'm based in Hong Kong
 * 🖥️  See my portfolio at [MyWebsite](https://kkanho.github.io/)
